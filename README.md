@@ -26,9 +26,9 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Questions
-  gitHub Name: undefined
-  GitHub Link: <a href="https://github.com/undefined">https://github.com/undefined</a>
+  gitHub Name: nfears19
+  GitHub Link: <a href="https://github.com/nfears19">https://github.com/nfears19</a>
   Email: none
 
 ## WalkThrough
-![Watch Video](ezgif.com-gif-maker.gif / GIF)
+![Watch Video](ezgif.com-gif-maker.gif/)
