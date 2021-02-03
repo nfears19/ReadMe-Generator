@@ -31,4 +31,4 @@
   Email: none
 
 ## WalkThrough
-![Watch Video](ReadMeGeneratorHW.mp4/)
+![Watch Video](ReadMeGeneratorHW.mp4/)](ReadMeGeneratorHW.mp4)
